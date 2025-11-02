@@ -52,3 +52,10 @@ The automation simulates an AI system that analyzes a Risk record’s descriptio
 | “Server downtime risk” | Operational | Medium | Operational issue detected |
 | “Budget overrun due to project delay” | Financial | Medium | Financial indicator detected |
 | “Unclear business direction” | Strategic | Low | Default fallback |
+
+## Business Impact
+This project showcases how **AI automation** can enhance Governance, Risk & Compliance (GRC) efficiency by:
+- Reducing manual classification errors  
+- Prioritizing high-risk compliance items  
+- Providing auditable AI reasoning for decision-making  
+- Building a foundation for **Predictive Risk Intelligence**
